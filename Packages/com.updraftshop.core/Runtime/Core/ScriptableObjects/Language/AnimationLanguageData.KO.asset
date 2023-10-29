@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ffc584c588ba4dafe2c6973c40d15, type: 3}
+  m_Name: AnimationLanguageData.KO
+  m_EditorClassIdentifier: 
+  _languageType: 2
+  _overwriteConfirmation: "{0} \uC740 \uC774\uBBF8 \uC874\uC7AC\uD569\uB2C8\uB2E4.
+    \uACC4\uC18D\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+  _overwriteConfirmationMessage: "\uB36E\uC5B4\uC4F0\uAE30 \uD655\uC778"
+  _ok: "\uC608"
+  _cancel: "\uCDE8\uC18C"

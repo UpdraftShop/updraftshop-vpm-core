@@ -1,0 +1,18 @@
+{
+  "name": "com.updraftshop.core",
+  "displayName": "UpdraftShop Core",
+  "version": "1.1.0",
+  "description": "This is a prerequisite package for tools provided by UpdraftShop.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.4.1"
+  },
+  "author": {
+    "name": "kedaryu",
+    "url": "https://twitter.com/kedaryu"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "E:\\Unity\\Production\\vrc\\07_updraft_shop\\01_unity\\vpm_updraftshop\\Core\\Packages\\com.updraftshop.core",
+  "unity": "2019.4"
+}
